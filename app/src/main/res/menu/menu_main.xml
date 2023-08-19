@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_characters"
+        android:icon="@drawable/ic_characters_fill"
+        android:title="@string/characters" />
+
+    <item
+        android:id="@+id/menu_weapons"
+        android:icon="@drawable/ic_weapons_fill"
+        android:title="@string/weapons" />
+</menu>
