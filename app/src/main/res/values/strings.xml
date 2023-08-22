@@ -3,4 +3,18 @@
     <string name="characters">Personagens</string>
     <string name="weapons">Armas</string>
     <string name="search_character">Pesquisar Personagem</string>
+    <string name="element">Elemento:</string>
+    <string name="region">Região:</string>
+    <string name="weapon">Arma:</string>
+    <string name="function">Função:</string>
+    <string name="gender">Gênero:</string>
+    <string name="birthday">Aniversário:</string>
+    <string name="builds">Builds Mais Usada</string>
+    <string name="status">Status dos Artefatos</string>
+    <string name="artifact">Artefatos</string>
+    <string name="recommended_weapon">Arma Recomendada</string>
+    <string name="alternative">alternativas</string>
+    <string name="priorities_of_talents">Prioridades de Taletos</string>
+    <string name="recommended_video">Vídeo Recomendado</string>
+    <string name="talent_priority">Supremo > Habilidade Elemental > Ataque Normal</string>
 </resources>

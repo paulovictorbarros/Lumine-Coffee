@@ -1,5 +1,7 @@
 package com.pvbcsoft.luminecoffee
 
+import com.pvbcsoft.luminecoffee.model.Characters
+
 class DataSourceCharacters {
     companion object {
 

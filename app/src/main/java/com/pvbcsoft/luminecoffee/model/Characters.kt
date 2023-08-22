@@ -1,4 +1,4 @@
-package com.pvbcsoft.luminecoffee
+package com.pvbcsoft.luminecoffee.model
 
 data class Characters(
     val imageUrl: String,

@@ -19,7 +19,7 @@
             android:id="@+id/search_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@drawable/searchview_backgraoud"
+            android:background="@drawable/contour_backgraoud"
             app:iconifiedByDefault="false"
             app:queryHint="@string/search_character" />
 
